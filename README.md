@@ -1,4 +1,4 @@
-<p align='right'>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbTeJUhTaRvyKwSlIWEPMITr3Tmec0R89YwQLNkJ42w&s</p>
+
 - 👋 Hi, I’m @Jman1902
 - 👀 I’m interested in Web deveolpment and robotics
 - 🌱 I’m currently learning c#, Lua, C, and JavaScript
