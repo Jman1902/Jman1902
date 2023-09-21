@@ -1,4 +1,4 @@
-
+<p align='right'> <img src="C#img.png alt="img"> </p>
 - 👋 Hi, I’m @Jman1902
 - 👀 I’m interested in Web deveolpment and robotics
 - 🌱 I’m currently learning c#, Lua, C, and JavaScript
